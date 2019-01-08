@@ -171,7 +171,7 @@
             "notFound" : {
                 "title" : "No se encontró una cuenta",
                 "line1" : "Te conectaste con Twitter como",
-                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter para fines de migración.",
+                "line2" : "Sin embargo, esa cuenta nunca se ha conectado antes y ahora sólo soportamos el acceso a Twitter con fines de migración.",
                 "line3" : "Tambien puede [iniciar sesión con Discord](/oauth/discord)."
             }
         },
